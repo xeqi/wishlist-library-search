@@ -1,5 +1,3 @@
 source :gemcutter
-gem "curb"
-gem "nokogiri"
-gem "HoustonLibrarySearch"
-gem "ruby-aaws"
+gem "HoustonLibrarySearch", ">= 0.0.1"
+gem "ruby-aaws", "= 0.7.0"
