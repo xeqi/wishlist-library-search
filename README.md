@@ -10,4 +10,4 @@ Install the gems:
 
 ## Usage
 
-ruby list.rb <wishlist id>
+ruby list.rb *wishlist id*
